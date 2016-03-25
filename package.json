@@ -10,7 +10,7 @@
     "subtle",
     "syntax"
   ],
-  "repository": "https://github.com/chrisgonzalez/titan-syntax",
+  "repository": "https://github.com/chrisgonzalez/titan-dark-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
