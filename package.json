@@ -1,8 +1,8 @@
 {
-  "name": "titan-syntax",
+  "name": "titan-dark-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "Theme inspired by the colors of Saturn's largest moon, Titan Syntax is grand and elegant",
+  "description": "This syntax theme inspired by the colors of Saturn's largest moon. Thanks to Atom's One Dark theme for structural inspiration!",
   "keywords": [
     "dark",
     "blue",
