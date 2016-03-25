@@ -5,7 +5,7 @@
 // General colors
 @syntax-text-color:            @syntax-fg;
 @syntax-cursor-color:          @syntax-accent;
-@syntax-selection-color:       lighten(@syntax-background-color, 10%);
+@syntax-selection-color:       lighten(@syntax-background-color, 6%);
 @syntax-selection-flash-color: @syntax-accent;
 @syntax-background-color:      @syntax-bg;
 
@@ -52,5 +52,5 @@
 
 @syntax-deprecated-fg: darken(@syntax-color-modified, 50%);
 @syntax-deprecated-bg: @syntax-color-modified;
-@syntax-illegal-fg:    white;
-@syntax-illegal-bg:    @syntax-color-removed;
+@syntax-illegal-fg:    @syntax-text-color;
+@syntax-illegal-bg:    darken(@syntax-color-removed, 40%);
