@@ -1,5 +1,9 @@
-## One Dark Syntax theme
+## Titan Dark Syntax theme
 
-![titan-dark-syntax](https://cloud.githubusercontent.com/assets/378023/7783203/49271ef6-0174-11e5-8eb1-d80b8d34a0e3.png)
+![titan-dark-syntax](https://raw.githubusercontent.com/chrisgonzalez/titan-dark-syntax/image/sample.png)
 
-> This theme is easy on the eyes, while still maintaining the contrast necessary for easy reading. Works really well with One Dark UI :)
+> Subtle color choices on a dark theme for optimal visibility with minimal eye strain.
+
+Works really well with Atom's [One Dark UI theme](https://atom.io/themes/one-dark-ui).
+
+This theme began as a fork of [One Dark Syntax theme](https://atom.io/themes/one-dark-syntax). Thanks to the Atom team for a great structure!
