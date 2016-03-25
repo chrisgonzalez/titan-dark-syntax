@@ -2,7 +2,7 @@
 
 ![titan-dark-syntax](https://raw.githubusercontent.com/chrisgonzalez/titan-dark-syntax/image/sample.png)
 
-> Subtle color choices on a dark theme for optimal visibility with minimal eye strain.
+> Subtle color choices on a dark theme for optimal visibility and minimal eye strain.
 
 Works really well with Atom's [One Dark UI theme](https://atom.io/themes/one-dark-ui).
 
